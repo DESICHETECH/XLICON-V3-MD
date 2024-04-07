@@ -16,10 +16,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
+ //  * @project_name : 𝘿𝞢𝙎𝞘𝘾𝞖𝞢 𝘾𝙇𝞘𝞜𝙏𝞗𝞜𝞢
+ //  * @author :𝘿𝞢𝙎𝞘𝘾𝞖𝞢 𝘾𝙇𝞘𝞜𝙏𝞗𝞜𝞢
  //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//   * @description : 𝘿𝞢𝙎𝞘𝘾𝞖𝞢 𝘾𝙇𝞘𝞜𝙏𝞗𝞜𝞢,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
